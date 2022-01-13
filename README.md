@@ -2,7 +2,7 @@
 
 This project consisted of building unsupervised machine learning models to explore whether cryptocurrencies can be grouped together with other similar cryptocurrencies.
 
-![Crypto Compare Logo](Images/CryptoCompareLogo)
+![Crypto Compare Logo](Images/CryptoCompareLogo.jpg)
 
 ## Background
 
