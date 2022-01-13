@@ -12,7 +12,7 @@ Raw data from [Crypto Compare](https://www.cryptocompare.com/) was used to fit t
 
 ## Data Preparation
 
-A [dataset]https://min-api.cryptocompare.com/data/all/coinlist) from Crpto Compare was initially read that included information for each cryptocurrency.
+A [dataset](https://min-api.cryptocompare.com/data/all/coinlist) from Crpto Compare was initially read that included information for each cryptocurrency.
 
 Data preparation is then processed so that the raw data will fit the unsupervised machine learning models.
 
